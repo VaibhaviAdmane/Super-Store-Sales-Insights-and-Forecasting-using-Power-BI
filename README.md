@@ -1,4 +1,4 @@
- 📊 Super Store Sales Dashboard — Power BI
+ 📊 Super Store Sales Insights and Forecasting using Power BI
  
  An interactive Power BI dashboard for analyzing retail sales performance, profit trends, and delivery insights across regions, categories, and customer segments.
 
